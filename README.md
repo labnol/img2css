@@ -3,6 +3,11 @@ img2css
 
 Convert arbitrary images into huge, browser-crashing CSS box-shadow settings.
 
+Example
+-------
+[http://rmer.info/css\_mona\_lisa.html](http://rmer.info/css_mona_lisa.html) (your browser will likely not be happy with your decision to visit this link).
+
+
 Usage
 -----
 * Don't, obviously
