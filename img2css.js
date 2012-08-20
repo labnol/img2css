@@ -1,7 +1,3 @@
-<!doctype html>
-<html>
-<head>
-	<script type="text/javascript">
 function cssifyImage(ctx, target, width, height) {
 	var pixWidth = 1,
 	        yOff = 2,
@@ -35,8 +31,3 @@ window.onload = function() {
 	}
 	img.src = 'mona.jpg';
 }
-	</script>
-</head>
-<body>
-</body>
-</html>
